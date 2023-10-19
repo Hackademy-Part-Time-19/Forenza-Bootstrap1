@@ -1,0 +1,57 @@
+
+ .navbar{ 
+    margin-top: 0px;
+    width: 100%;
+    height: 80px;
+    background-color:#e9e9e9 ;
+    z-index: 9999; position:fixed; 
+    top:0; 
+    width:100%;
+ }
+ .container-fluid {
+    background-color: #e9e9e9;
+    height: 60px;
+    margin-top: 0px;
+    width: 100%;
+ }
+h3 {
+    color: white;
+    padding-right: 10px;
+ }
+h4 { 
+    color: white;
+ }
+ .btn {
+    color: white;
+ }
+ .container-items {
+    position: relative; 
+    margin-top: 10px;
+ }
+ video {
+    width: 100%; 
+    height: 80vh; 
+    object-fit: cover;
+  }
+  .img-prod {
+    object-fit: cover;
+    height: 79vh;
+  }
+  .img-logo {
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+  .div-logo {
+    width: 40vh;
+  }
+  .div-items {
+    position: absolute; 
+    padding: 20px;
+  }
+.card {
+    background-color: #e9e9e9;
+    border: none;
+    margin-left: 0px;
+    margin-right: 0px;
+
+ }
